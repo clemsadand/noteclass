@@ -7,6 +7,8 @@ Il peut être utilisé soit en créant une classe soit en chargeant un fihcier c
 Pour une première fois, il faut créer une classe. Et pour les autres fois, charg
 er simplement un fichier (spécifier le chemin du fichier).
 
+Il suffit d'éxecuter le fichier /codes/noteclass.py pour utiliser NoteClass.
+
 **Exporter les données**
 Les données sont exportées au format .csv, .tex et .pdf. Les fichiers sont créés quand vous calculer la moyenne totale et le fichier .csv lorsque vous arrêtez le programme. Ils sont placés dans le dossier /output. 
 
